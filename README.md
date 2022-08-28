@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there 👋, my name is Umar and I'm 20 years old 
+### I'm beginner python/django software engineer
 
-<!--
-**aadam05/aadam05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+&nbsp;
+## My stack
+![Python](https://img.shields.io/badge/Python-111111?style=plastic&logo=Python&logoColor=84941f)
+![Django](https://img.shields.io/badge/Django-111111?style=plastic&logo=Django&logoColor=009900)
+![Django Rest Framework](https://img.shields.io/badge/DRF-111111?style=plastic&logo=Django&logoColor=009900)
+![Django ORM](https://img.shields.io/badge/ORM-111111?style=plastic&logo=Django&logoColor=009900)
+![SQL](https://img.shields.io/badge/SQL-111111?style=plastic&logo=PostgreSQL)
 
-Here are some ideas to get you started:
+&nbsp; 
+## Contact with me
+[![Telegram](https://img.shields.io/badge/Telegram-111111?style=plastic&logo=Telegram&logoColor=27A0D9)](https://t.me/gammo05)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
