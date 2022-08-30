@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Umar and I'm 20 years old 
-#### I'm beginner python/django software engineer
+#### I'm beginner python/django web developer
 ### My stack
 ![Python](https://img.shields.io/badge/Python-111111?style=plastic&logo=Python&logoColor=84941f)
 ![Django](https://img.shields.io/badge/Django-111111?style=plastic&logo=Django&logoColor=009900)
